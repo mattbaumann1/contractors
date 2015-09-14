@@ -4,7 +4,6 @@
 import main
 import unittest
 import os
-#import os.path
 
 class MainTests(unittest.TestCase):
     
